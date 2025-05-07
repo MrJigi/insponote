@@ -10,12 +10,17 @@ Next phase implementation
 
 * .NET MAUI (Native integration)
 
+
 📚 Learning Curve Overview
-Tech	Learning Curve	Job Value
-ASP.NET Core (Web API)	Moderate	⭐⭐⭐⭐ (Industry standard)
-Blazor (WASM)	Easy–Moderate	⭐⭐⭐ (Growing adoption)
-.NET MAUI	Moderate–High	⭐⭐ (Newer, fewer jobs but future-proof)
-React/Flutter	High (JS/Dart)	⭐⭐⭐⭐ (Outside .NET scope)
+    
+    Tech	                    Learning Curve	            Job Value
+    ASP.NET Core (Web API)	    Moderate                    ⭐⭐⭐⭐ (Industry standard)
+    Blazor (WASM)	            Easy–Moderate	            ⭐⭐⭐ (Growing adoption)
+    .NET MAUI	                Moderate–High	            ⭐⭐ (Newer, fewer jobs but future-proof)
+    React/Flutter	            High (JS/Dart)	            ⭐⭐⭐⭐ (Outside .NET scope)
+   
+
+
 
 --- Reasons ---
 
